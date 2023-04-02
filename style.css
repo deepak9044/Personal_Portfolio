@@ -421,6 +421,10 @@ nav .fas{
     .copyright{
         font-size:14px;
     }
+    .about-col-1 img{
+        width:315px;
+        height:385px;
+    }
 }
 
 
